@@ -11,6 +11,7 @@
 }
 html,body{
   height:100%;
+  
 }
 
 .icon{
@@ -93,7 +94,8 @@ a{
 
 
 body {
-  background:#F8C48C;
+   background-image: url(../img/unicorn_foal_dribbble.png);
+   background-position: right -100px top 40px;
 }
 
 .mittu {
@@ -110,8 +112,6 @@ body {
   background:brown;
   top:108px;
   z-index:-10;
-  
-  
 }
 
 #typewriter {
